@@ -23,7 +23,6 @@ To get started, follow these installation instructions:
 1. **Prerequisites**: 
    - [Python](https://www.python.org/downloads/) (Version 3.6 or later)
    - [NumPy](https://numpy.org/)
-   - [SciPy](https://www.scipy.org/)
    - [matplotlib](https://matplotlib.org/)
 
 2. **Clone the Repository**:
