@@ -27,5 +27,5 @@ To get started, follow these installation instructions:
 
 2. **Clone the Repository**:
    ```shell
-   git clone https://github.com/yourusername/microfluidic-cfd-sim.git
+   git clone https://github.com/darkr4id/CFD-microfluidics
    cd microfluidic-cfd-sim
